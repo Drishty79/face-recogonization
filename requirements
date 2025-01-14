@@ -1,0 +1,19 @@
+#Prerequisites
+Python:
+Ensure you have Python 3.7 or higher installed.
+
+Keras:
+Keras is required for model loading and prediction.
+pip install keras
+
+TensorFlow:
+TensorFlow is required as the backend for Keras.
+pip install tensorflow
+
+OpenCV:
+OpenCV library for computer vision tasks.
+pip install opencv-python
+
+NumPy:
+NumPy library for numerical operations.
+pip install numpy
