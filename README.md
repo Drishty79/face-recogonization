@@ -7,7 +7,7 @@ Image Classification: Train a model to recognize and classify different face ima
 User-Friendly Interface: No coding knowledge required to train models.
 Exportable Models: Models can be exported and used in various applications.
 
-Installation:
+#Installation:
 1.Visit the Teachable Machine Website: Go to Teachable Machine
 ![image](https://github.com/user-attachments/assets/92b02f6e-6868-44a4-ae0d-64c7c19f9c8f)
 
